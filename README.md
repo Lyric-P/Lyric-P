@@ -1,4 +1,4 @@
-## Hola Todos
+## lyricing
 
 <!--
 **Lyric-P/Lyric-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
